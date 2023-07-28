@@ -18,6 +18,7 @@ func saySomething(h human) {
 	h.speak()
 }
 
+// Method set
 func main() {
 	p1 := person{
 		first: "James",
